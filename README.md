@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Johnatan Sena 👋
 
-<!--
-**JohnatanSena/JohnatanSena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### About
+I'am a Web Developer, And, I'm Studying web development at [Rocketseat](https://www.rocketseat.com.br/).
 
-Here are some ideas to get you started:
+#### Current stack
+- Main language: `Javascript`
+- backend: `Nodejs`, `Golang`
+- Frontend: `ReactJs`, `HTML5`, `CSS3`, `JavaScript`
+- Leyout Design: `Figma`
+- Version code control: `Git & GitHub`
+- Tools: `VsCode`, `MarkDown`
+- I'm mostly active within the `Rocketseat community` and `SouJunior community`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+- Email: johnatansena95@gmail.com
+- Linkedin: https://www.linkedin.com/in/johnatan-s-a23448157/
