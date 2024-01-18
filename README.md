@@ -6,7 +6,7 @@ I'am a Web Developer, And, I'm Studying web development at [Rocketseat](https://
 #### Current stack
 - Main language: `Javascript`
 - backend: `Nodejs`, `Golang`
-- Frontend: `ReactJs`, `HTML5`, `CSS3`, `JavaScript`
+- Frontend: `ReactJs`, `HTML5`, `CSS3`, `JavaScript`, `Typescript`, `NextJs`
 - Leyout Design: `Figma`
 - Version code control: `Git & GitHub`
 - Tools: `VsCode`, `MarkDown`
