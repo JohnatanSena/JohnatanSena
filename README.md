@@ -10,7 +10,6 @@ I'am a Web Developer, And, I'm Studying web development at [Rocketseat](https://
 - Leyout Design: `Figma`
 - Version code control: `Git & GitHub`
 - Tools: `VsCode`, `MarkDown`
-- I'm mostly active within the `Rocketseat community` and `SouJunior community`
 
 #### Contacts
 - Email: johnatansena95@gmail.com
